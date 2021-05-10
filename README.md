@@ -14,3 +14,7 @@ The link to my website --> http://127.0.0.1:8000/login/?next=/
 
 * User can register with the signup link and login after. 
 
+# Author:
+* Jay Lakhani
+* Siddharth Vermuri
+
