@@ -16,6 +16,12 @@
 
 [View mywebsite Video Here] (https://share.vidyard.com/watch/nPnKzw9Gc7qiQm2JApLNjm?vyetoken=aba83b44-330a-4b52-88b3-10103bd45d22&autoplay=1)
 
+[View mywebsite Login Page] (
+
+[View mywebsite Register Page]
+
+[View mywebsite adding Note Page] 
+
 # Author:
 * Jay Lakhani
 * Siddharth Vermuri
