@@ -16,11 +16,11 @@
 
 [View mywebsite Video Here] (https://share.vidyard.com/watch/nPnKzw9Gc7qiQm2JApLNjm?vyetoken=aba83b44-330a-4b52-88b3-10103bd45d22&autoplay=1)
 
-[View mywebsite Login Page](screenshots/login.jpeg)
+![View mywebsite Login Page](screenshots/login.jpeg)
 
-[View mywebsite Register Page](screenshots/register.jpeg)
+![View mywebsite Register Page](screenshots/register.jpeg)
 
-[View mywebsite adding Note Page](screenshots/note.jpeg)
+![View mywebsite adding Note Page](screenshots/note.jpeg)
 
 # Author:
 * Jay Lakhani
