@@ -20,7 +20,7 @@
 
 # mywebsite Login Page
 
-![View mywebsite Login Page](screenshots/login.jpeg)
+![View mywebsite Login Page](screenshots/logi.jpeg)
 
 # mywebsite Register Page
 
@@ -28,7 +28,7 @@
 
 # mywebsite Note Page
 
-![View mywebsite adding Note Page](screenshots/note.jpeg)
+![View mywebsite adding Note Page](screenshots/notes.jpeg)
 
 # Author:
 * Jay Lakhani
