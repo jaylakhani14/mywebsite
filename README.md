@@ -32,5 +32,5 @@
 
 # Author:
 * Jay Lakhani
-* Sidharth Vemuri
+* Sidharth Vemuri.
 
