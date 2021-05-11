@@ -24,7 +24,7 @@
 
 # mywebsite Register Page
 
-![View mywebsite Register Page](screenshots/register.jpeg)
+![View mywebsite Register Page](screenshots/registers.jpeg)
 
 # mywebsite Note Page
 
